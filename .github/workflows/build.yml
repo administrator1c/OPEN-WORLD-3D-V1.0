@@ -1,4 +1,4 @@
-name: OPEN WORLD 3D V1.3 - Build Android APK
+name: OPEN WORLD 3D V1.0 - Build Android APK
 
 on:
   workflow_dispatch:
