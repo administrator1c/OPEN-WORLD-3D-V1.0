@@ -1,4 +1,4 @@
-      - name: Extract ZIP and locate Godot project
+name: Extract ZIP and locate Godot project
         shell: bash
         run: |
           set -euo pipefail
